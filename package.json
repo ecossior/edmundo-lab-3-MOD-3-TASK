@@ -1,0 +1,17 @@
+{
+  "name": "edmundo-lab-3-mod-3-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.31.2"
+  }
+}
